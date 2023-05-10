@@ -5,7 +5,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+#*.obj///備份
 
 # Precompiled Headers
 *.gch
@@ -14,7 +14,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-#*.dll
+#*.dll ///備份
 
 # Fortran module files
 *.mod
@@ -23,8 +23,8 @@
 # Compiled Static libraries
 *.lai
 *.la
-*.a
-*.lib
+#*.a ///備份
+#*.lib ///備份
 
 # Executables
 *.exe
